@@ -1,0 +1,2 @@
+# Exclude specific path which contains output
+lw_linal_primitives-build/

@@ -1,0 +1,12 @@
+# exclude different autogenerate files
+
+*CMakeLists.txt.user
+*.pyc
+*.chw
+*.pro.user
+
+# Exclude specific path which contains output
+out/
+
+# exlude unittest reports
+*/unit_and_perf_tests.xml 
